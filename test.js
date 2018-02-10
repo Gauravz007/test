@@ -9,6 +9,9 @@ custcodelink = {
 ':yoga:':'2/meditation.gif',
 ':hack:':'2/hacker.gif',
 ':thatsgay:':'3/Gay.png',
-':dacin:':'2/dancin.gif',
-':timeout:':'1/timeout.gif'
+':dancin:':'2/dancin.gif',
+':doodh:':'2/dance4.gif',
+':run:':'2/59b0540ce66e6.gif',
+':girlmad:':'2/girl_mad.gif',
+':bore:':'4/boredom.gif' 
 };
