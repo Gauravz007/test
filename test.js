@@ -5,5 +5,5 @@ custcodelink = {
 ':cray:':'3/cray2.png',
 ':danks:':'6/thank_you.gif',
 ':budhau:':'2/59b05971add3f.gif',
-':good:':'https://pzy.be/i/6/good2.gif'
+':good:':'6/good2.gif'
 };
