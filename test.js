@@ -14,6 +14,6 @@ custcodelink = {
 ':run:':'2/59b0540ce66e6.gif',
 ':girlmad:':'2/girl_mad.gif',
 ':bore:':'4/boredom.gif',
-':giverose:':'/2/sfgsg.gif',
+':giverose:':'2/giveroseplz.gif',
 ':fire:':'2/sfgsg.gif' 
 };
