@@ -15,7 +15,7 @@ custcodelink = {
 ':girlmad:':'2/girl_mad.gif',
 ':bore:':'4/boredom.gif',
 ':giverose:':'2/giveroseplz.gif',
-':fire:':'2/sfgsg.gif' 
+':fire:':'2/sfgsg.gif', 
 ':party3:':'66740/1.gif',
 ':notme2:':'46745/2.gif',
 ':alright2:':'41060/3.gif',
