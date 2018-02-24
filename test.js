@@ -26,5 +26,6 @@ custcodelink = {
 ':king:':'26361/8.gif',
 ':laugh2:':'24040/9.gif',
 ':cry3:':'26054/10.gif',
-':write:':'25062/11.gif'
+':write:':'25062/11.gif',
+':assholeba:':'3589/images.jpg'  
 };
