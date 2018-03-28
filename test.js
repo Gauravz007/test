@@ -27,5 +27,8 @@ custcodelink = {
 ':laugh2:':'24040/9.gif',
 ':cry3:':'26054/10.gif',
 ':write:':'25062/11.gif',
+':sigh3:':'2/fappa.png',
+':lel:':'2/kek.png',
+':cooldog:':'2/cooldoge.gif',
 ':assholeba:':'3589/images.jpg'  
 };
