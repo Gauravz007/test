@@ -30,5 +30,7 @@ custcodelink = {
 ':sigh3:':'2/fappa.png',
 ':lel:':'2/kek.png',
 ':cooldog:':'2/cooldoge.gif',
-':assholeba:':'3589/images.jpg'  
+':feelsbadmen:':'2/feelsbadman.png',
+':sip:':'3/sip.png',
+':assholeba:':'3589/images.jpg'
 };
